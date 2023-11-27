@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:angle="@integer/material_motion_duration_long_1"
+                android:startColor="#C697A7"
+                android:endColor="#E91E63"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/icon" android:gravity="center"/>
+</layer-list>
